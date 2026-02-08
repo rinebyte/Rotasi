@@ -1,3 +1,5 @@
+🌐 **Bahasa:** [English](README.md) | Bahasa Indonesia
+
 # Rotasi V3 - Smart URL Shortener dengan Auto-Mirror
 
 **URL shortener tingkat enterprise dengan monitoring domain otomatis, penggantian mirror otomatis, dan caching performa tinggi.**
@@ -139,3 +141,4 @@ RotasiV3P/
 Lisensi Proprietary - Source code disediakan hanya untuk penggunaan pembeli. Redistribusi atau penjualan kembali dilarang.
 
 © 2024 Rotasi V3. Hak cipta dilindungi.
+
